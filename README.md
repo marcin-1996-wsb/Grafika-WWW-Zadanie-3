@@ -3,6 +3,7 @@
 ![NEWAMSTERDAM](https://user-images.githubusercontent.com/84681166/119273010-3da6c800-bc09-11eb-9c68-4785a8ed1dfa.PNG)
 ![wiedzmin](https://user-images.githubusercontent.com/84681166/119272981-1819be80-bc09-11eb-9c4a-b3eec609881b.PNG)
 ![TWD](https://user-images.githubusercontent.com/84681166/119272950-e9034d00-bc08-11eb-9d4d-6b1ad0ed1e4e.PNG)
+![domzpapieru](https://user-images.githubusercontent.com/84681166/119273116-af7f1180-bc09-11eb-9c5f-06c38202a4b9.PNG)
 
 -->
 # Grafika-WWW-Zadanie-3
@@ -43,5 +44,12 @@
 <br>
 <img src="https://user-images.githubusercontent.com/84681166/119272950-e9034d00-bc08-11eb-9d4d-6b1ad0ed1e4e.PNG">
 <p>
-  <i>The Walking Dead</i> to serial Franka Darabonta, reżysera filmów <i>Skazani na Shawshank</i> i <i>Zielona mila</i>, oraz Gale Anne Hurd, producentki <i>Terminatora</i>, <i>Obcego”, <i>Armagedonu</i> i <i>Niesamowitego Hulka</i>, oparty na bestsellerowym komiksie Roberta Kirkmana. Serial opowiada o czasie następującym po pandemicznej apokalipsie, po której świat opanowały zombie. Szeryf Rick Grimes (Andrew Lincoln) podróżuje wraz z rodziną i z garstką ocalałych, w bezustannym poszukiwaniu bezpiecznego schronienia. Ciągła presja oraz codzienne zmagania się z zagrożeniem i śmiercią zbierają krwawe żniwo, popychając wielu ku otchłani najgłębszego ludzkiego okrucieństwa. W trakcie walki o przeżycie swojej rodziny, Rick odkrywa, że wszechogarniający strach ocalałych może być dużo bardziej niebezpieczny, niż przemierzające świat zombie
+  <i>The Walking Dead</i> to serial Franka Darabonta, reżysera filmów <i>Skazani na Shawshank</i> i <i>Zielona mila</i>, oraz Gale Anne Hurd, producentki <i>Terminatora</i>, <i>Obcego”, <i>Armagedonu</i> i <i>Niesamowitego Hulka</i>, oparty na bestsellerowym komiksie Roberta Kirkmana. Serial opowiada o czasie następującym po pandemicznej apokalipsie, po której świat opanowały zombie. Szeryf Rick Grimes (Andrew Lincoln) podróżuje wraz z rodziną i z garstką ocalałych, w bezustannym poszukiwaniu bezpiecznego schronienia. Ciągła presja oraz codzienne zmagania się z zagrożeniem i śmiercią zbierają krwawe żniwo, popychając wielu ku otchłani najgłębszego ludzkiego okrucieństwa. W trakcie walki o przeżycie swojej rodziny, Rick odkrywa, że wszechogarniający strach ocalałych może być dużo bardziej niebezpieczny, niż przemierzające świat zombie.
+</p>
+  
+  <h3><a href="https://www.filmweb.pl/serial/Dom+z+papieru-2017-792826">Dom Z Papieru</a></h2>
+<br>
+<img src="https://user-images.githubusercontent.com/84681166/119273116-af7f1180-bc09-11eb-9c5f-06c38202a4b9.PNG">
+<p>
+  Ośmioro zamaskowanych przestępców wdziera się do budynku hiszpańskiej mennicy narodowej, skąd zamierza zrabować niemal dwa i pół miliarda euro. Akcją z zewnątrz kieruje tajemniczy Profesor (Álvaro Morte), który wcześniej przez kilka miesięcy przygotowywał specjalistów z różnych dziedzin do napadu stulecia. Uczestnicy skoku nie znają swoich imion, ze względów bezpieczeństwa zwracają się do siebie, używając pseudonimów zaczerpniętych od nazw światowych miast. Nie mogą również nawiązywać bliższych relacji. Profesor przygotował niezwykle skomplikowany plan, wydaje się brać pod uwagę każdą ewentualność i mieć wszystko dopięte na ostatni guzik, ale nie wszystko przebiega tak jak oczekiwał.
 </p>
