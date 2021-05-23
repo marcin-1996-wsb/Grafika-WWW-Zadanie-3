@@ -54,11 +54,11 @@
   Ośmioro zamaskowanych przestępców wdziera się do budynku hiszpańskiej mennicy narodowej, skąd zamierza zrabować niemal dwa i pół miliarda euro. Akcją z zewnątrz kieruje tajemniczy Profesor (Álvaro Morte), który wcześniej przez kilka miesięcy przygotowywał specjalistów z różnych dziedzin do napadu stulecia. Uczestnicy skoku nie znają swoich imion, ze względów bezpieczeństwa zwracają się do siebie, używając pseudonimów zaczerpniętych od nazw światowych miast. Nie mogą również nawiązywać bliższych relacji. Profesor przygotował niezwykle skomplikowany plan, wydaje się brać pod uwagę każdą ewentualność i mieć wszystko dopięte na ostatni guzik, ale nie wszystko przebiega tak jak oczekiwał.
 </p>
 <br>
-<h2> TOP 5 ULUBIONYCH SERIALI </h1>
+<h2> TOP 5 ULUBIONYCH FILMÓW </h1>
 <ol>
-  <li> Czarna Lista </li>
-  <li> Szpital New Amsterdam </li>
-  <li> Wiedźmin </li>
-  <li> The Walking Dead </li>
-  <li> Dom Z Papieru </li>
+  <li> Władca Pierścieni: Drużyna Pierścienia (2001)</li>
+  <li> Igrzyska Śmierci (2012) </li>
+  <li> Gwiezdne Wojny: Część VI - Powrót JEDI (1983) </li>
+  <li> Mój Brat Niedźwiedź (2003) </li>
+  <li> Siedem (1995) </li>
 </ol>
