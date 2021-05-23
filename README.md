@@ -24,7 +24,7 @@
 </ol>
 <br>
 <br>
-<h3><a href="https://www.filmweb.pl/serial/Czarna+lista-2013-683563/descs">Czarna Lista</a></h2>
+<h3><a href="https://www.filmweb.pl/serial/Czarna+lista-2013-683563">Czarna Lista</a></h2>
 <br>
 <img src="https://user-images.githubusercontent.com/84681166/119273058-6a5adf80-bc09-11eb-9297-210ee1c450c6.PNG">
 <p>
