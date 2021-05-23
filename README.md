@@ -12,6 +12,6 @@
 </ol>
 
 
-<h2><a href="https://www.filmweb.pl/serial/Czarna+lista-2013-683563/descs">Czarna Lista</a><img src="![czarnalista]"></h2>
+<h2><a href="https://www.filmweb.pl/serial/Czarna+lista-2013-683563/descs">Czarna Lista</a><img src=![czarnalista]></h2>
 <p>
   
