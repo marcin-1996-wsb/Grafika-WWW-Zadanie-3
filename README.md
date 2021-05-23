@@ -2,7 +2,7 @@
 ![czarnalista](https://user-images.githubusercontent.com/84681166/119272576-dab43180-bc06-11eb-8c73-1548728f5d17.jpg)
 ![newamsterdam](https://user-images.githubusercontent.com/84681166/119272716-9d03d880-bc07-11eb-9225-942670d33aec.jpg)
 ![wiedzmin](https://user-images.githubusercontent.com/84681166/119272798-1e5b6b00-bc08-11eb-959a-1df8cab7922e.jpg)
-![TWD](https://user-images.githubusercontent.com/84681166/119272920-c07b5300-bc08-11eb-91c5-fcf03d397c5c.jpg)
+![TWD](https://user-images.githubusercontent.com/84681166/119272950-e9034d00-bc08-11eb-9d4d-6b1ad0ed1e4e.PNG)
 
 -->
 # Grafika-WWW-Zadanie-3
@@ -41,7 +41,7 @@
 
 <h3><a href="https://www.filmweb.pl/serial/The+Walking+Dead-2010-547035">The Walking Dead</a></h2>
 <br>
-<img src="https://user-images.githubusercontent.com/84681166/119272920-c07b5300-bc08-11eb-91c5-fcf03d397c5c.jpg">
+<img src="https://user-images.githubusercontent.com/84681166/119272950-e9034d00-bc08-11eb-9d4d-6b1ad0ed1e4e.PNG">
 <p>
   <i>The Walking Dead</i> to serial Franka Darabonta, reżysera filmów <i>Skazani na Shawshank</i> i <i>Zielona mila</i>, oraz Gale Anne Hurd, producentki <i>Terminatora</i>, <i>Obcego”, <i>Armagedonu</i> i <i>Niesamowitego Hulka</i>, oparty na bestsellerowym komiksie Roberta Kirkmana. Serial opowiada o czasie następującym po pandemicznej apokalipsie, po której świat opanowały zombie. Szeryf Rick Grimes (Andrew Lincoln) podróżuje wraz z rodziną i z garstką ocalałych, w bezustannym poszukiwaniu bezpiecznego schronienia. Ciągła presja oraz codzienne zmagania się z zagrożeniem i śmiercią zbierają krwawe żniwo, popychając wielu ku otchłani najgłębszego ludzkiego okrucieństwa. W trakcie walki o przeżycie swojej rodziny, Rick odkrywa, że wszechogarniający strach ocalałych może być dużo bardziej niebezpieczny, niż przemierzające świat zombie
 </p>
