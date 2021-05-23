@@ -4,6 +4,11 @@
 ![wiedzmin](https://user-images.githubusercontent.com/84681166/119272981-1819be80-bc09-11eb-9c4a-b3eec609881b.PNG)
 ![TWD](https://user-images.githubusercontent.com/84681166/119272950-e9034d00-bc08-11eb-9d4d-6b1ad0ed1e4e.PNG)
 ![domzpapieru](https://user-images.githubusercontent.com/84681166/119273116-af7f1180-bc09-11eb-9c5f-06c38202a4b9.PNG)
+![wladcapierscieni](https://user-images.githubusercontent.com/84681166/119273360-dc7ff400-bc0a-11eb-85c9-4d78fb61869e.PNG)
+![igrzyska](https://user-images.githubusercontent.com/84681166/119273381-020cfd80-bc0b-11eb-9b64-fef5e2ae6130.PNG)
+![starwars](https://user-images.githubusercontent.com/84681166/119273433-3ed8f480-bc0b-11eb-83c2-c520e5e4b53f.PNG)
+![bratniedzwiedz](https://user-images.githubusercontent.com/84681166/119273435-40a2b800-bc0b-11eb-92dd-94af565bfcb9.PNG)
+![siedem](https://user-images.githubusercontent.com/84681166/119273437-43051200-bc0b-11eb-990d-be19b809bf2d.PNG)
 
 -->
 # Grafika-WWW-Zadanie-3
@@ -62,3 +67,38 @@
   <li> Mój Brat Niedźwiedź (2003) </li>
   <li> Siedem (1995) </li>
 </ol>
+<br>
+  <h3><a href="https://www.filmweb.pl/film/Władca+Pierścieni%3A+Drużyna+Pierścienia-2001-1065">Władca Pierścieni: Drużyna Pierścienia</a></h2>
+<br>
+<img src="https://user-images.githubusercontent.com/84681166/119273360-dc7ff400-bc0a-11eb-85c9-4d78fb61869e.PNG">
+<p>
+  Kiedyś, na pamiętnej wyprawie pod Samotną Górę Bilbo Baggins (Ian Holm) zdobył przez przypadek pierścień. Jeden z jego starych dobrych znajomych, który także uczestniczył w tamtej wyprawie - czarodziej Gandalf (Ian McKellen), zaczyna teraz podejrzewać, że jest to Jedyny Pierścień, który może dać władzę nad światem. Został on dawno temu stworzony przez Saurona we wnętrzu Góry Zagłady i teraz jego twórca chce go odzyskać, by zrealizować swoje niebezpieczne plany. Frodo Baggins (Elijah Wood), który otrzymał ten pierścień od Bilba, musi uciekać. Na naradzie w Rivendell zostaje podjęta decyzja, że drużyna złożona z dziewięciu przedstawicieli różnych ras podejmie się razem z Frodem - Powiernikiem Pierścienia - wykonać misję zniszczenia potężnego pierścienia. W Śródziemiu zanosi się na wojnę. Robi się niebezpiecznie, pojawiają się tajemniczy Czarni Jeźdźcy. Losy tej wojny nie będą jednak zależeć tak naprawdę od rozkładu sił militarnych. Wszystkie wojska będą jedynie przykrywką, losy świata zależą od Drużyny Pierścienia i od tego, czy Powiernik Pierścienia ukończy szczęśliwie swoją misję. Jest to o tyle trudniejsze, że Pierścień Władzy budzi silne pożądanie w ludziach, którzy się z nim stykają i potrafi zawładnąć ich psychiką, jeśli nie będą wystarczająco odporni. W ślad za Drużyną rusza między innymi jedna z ofiar Pierścienia Władzy - Gollum (Andy Serkis), który posunie się do wszystkiego, by odzyskać Pierścień, który kiedyś zrujnował jego życie i zrobił z niego potwora.
+</p>
+<br>
+ <h3><a href="https://www.filmweb.pl/film/Igrzyska+śmierci-2012-504776">Igrzyska Śmierci</a></h2>
+<br>
+<img src="https://user-images.githubusercontent.com/84681166/119273381-020cfd80-bc0b-11eb-9b64-fef5e2ae6130.PNG">
+<p>
+  Katniss pochodzi z Dwunastego Dystryktu, jednego z najbiedniejszych regionów w państwie Panem. Kiedy jej młodsza siostra zostaje wylosowana do udziału w Głodowych Igrzyskach, corocznym turnieju organizowanym przez bezwzględne władze, Katniss zgłasza się, by zająć jej miejsce. Musi opuścić nie tylko rodzinę, której jest żywicielką, ale i Gale’a, który zdaje się  kimś więcej niż przyjacielem. Aby ich jeszcze zobaczyć, musi zwyciężyć w transmitowanych przez telewizję Igrzyskach. Przeżyć może tylko jeden uczestnik. Pochodzący z biednego dystryktu i nie szkoleni w walce Katniss i chłopak Peeta, w oczach widzów skazani są na porażkę. Igrzyska są jednak nieprzewidywalne. Między młodymi rodzi się uczucie, a odważna szesnastolatka rozpala w ludziach nadzieję na zmiany. Staje się symbolem buntu i walki z niesprawiedliwością. Jednak jeśli kiedykolwiek ma zobaczyć jeszcze rodzinny Dystrykt 12, musi dokonać rzeczy niemożliwych...
+</p>
+<br>
+<h3><a href="https://www.filmweb.pl/film/Gwiezdne+wojny%3A+Część+VI+-+Powrót+Jedi-1983-547">Gwiezdne Wojny: Część VI - Powrót JEDI</a></h2>
+<br>
+<img src="https://user-images.githubusercontent.com/84681166/119273433-3ed8f480-bc0b-11eb-83c2-c520e5e4b53f.PNG">
+<p>
+  Imperium kończy budowę nowej groźniejszej Gwiazdy Śmierci. Luke Skywalker, wraz z przyjaciółmi udaje się na pustynną Tatooine, by tam uwolnić zamrożonego w karbonicie Hana Solo z rąk Jabby Hutta. Po ukończeniu zadania Luke musi zakończyć swoją naukę, aby stać się w pełni rycerzem Jedi, w tym celu musi udać się ponownie do mistrza Yody. Bothańscy szpiedzy odkryli dla Rebeliantów umiejscowienie nowej Gwiazdy Śmierci, którą chroni pole siłowe wysyłane z księżyca Endor. Rebelianci, nie mogąc dopuścić do ukończenia nowej Gwiazdy Śmierci, podejmują akcję w celu jej zniszczenia oraz obalenia Imperatora, który osobiście nadzoruje ostatnią fazę budowy. Luke będzie musiał się w końcu zmierzyć z własnym ojcem Lordem Vaderem...
+</p>
+<br>
+<h3><a href="https://www.filmweb.pl/film/Mój+brat+niedźwiedź-2003-99403">Mój Brat Niedźwiedź</a></h2>
+<br>
+<img src="https://user-images.githubusercontent.com/84681166/119273435-40a2b800-bc0b-11eb-92dd-94af565bfcb9.PNG">
+<p>
+  Kenai, jeden z trzech braci, zaczyna wstępować w okres dojrzałości. Zgodnie z tradycją wioski wkrótce ma otrzymać długo wyczekiwany totem. Przypada mu wizerunek niedźwiedzia. Niechęć, jaką żywi do tego gatunku, przemienia się w nienawiść, kiedy jedno ze stworzeń zabija jego brata. Młodzieniec postanawia zemścić się na "potworze". W konsekwencji w magiczny sposób zostaje przeobrażony w niedźwiedzia. Od tej chwili patrzy na świat z zupełnie innej perspektywy. Aby powrócić do ludzkiej postaci, musi udać się na górę, gdzie światła wędrują po ziemi. W trakcie podróży poznaje gadatliwego misia o imieniu Koda, który zastępuje mu prawdziwego brata.
+</p>
+<br>
+<h3><a href="https://www.filmweb.pl/film/Siedem-1995-702">Siedem</a></h2>
+<br>
+<img src="https://user-images.githubusercontent.com/84681166/119273437-43051200-bc0b-11eb-990d-be19b809bf2d.PNG">
+<p>
+  W mieście ma miejsce seria dziwnych morderstw. Każda kolejna ofiara to swego rodzaju ucieleśnienie jednego z siedmiu grzechów głównych: obżarstwa, chciwości, lenistwa, lubieżności, pychy, zazdrości i gniewu. Dwaj policjanci pracujący w wydziale zabójstw, będący w wieku emerytalnym i pogrążony w apatii kapitan Somerset oraz zaczynający dopiero swoją karierę w tym fachu, pełen ideałów o sprawiedliwości detektyw Mills, podążają śladami mordercy. Przebiegły i drobiazgowy psychopata, opętany morderczą manią naprawy złego świata, wciąga ich coraz głębiej w szaloną rozgrywkę. Somerset i Mills muszą stanąć twarzą w twarz z przeciwnikiem, jakiego dotąd nie spotkali.
+</p>
