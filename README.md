@@ -1,4 +1,4 @@
-<!--![czarnalista](https://user-images.githubusercontent.com/84681166/119272417-0256ca00-bc06-11eb-9c67-ce07bb9cd397.jpg)-->
+<!--[czarnalista](https://user-images.githubusercontent.com/84681166/119272417-0256ca00-bc06-11eb-9c67-ce07bb9cd397.jpg)-->
 # Grafika-WWW-Zadanie-3
 <b> Zadanie robione w grupie: <i>Aleksandra Janik oraz Marcin Krogulewski</i></b>
 
